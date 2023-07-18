@@ -19,3 +19,8 @@ In those paths, USER will change by yours and default might change as well if yo
   5. Сheck the box next to the plugin<br>
 </p>
 
+<img src="plugin.png" alt="Plugin window" height="200" width="300" align="center">
+<p>
+  In the x and y fields, enter the corresponding coordinates of the point. To draw a point on a layer, click "Создать точку".<br>
+  To clear the fields from values, click "Очистить".
+</p>

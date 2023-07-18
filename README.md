@@ -1,5 +1,4 @@
 # Point-creator
-<h2>Point creator</h2>
 <p>Plugin for QGIS designed to plot points on the layer.</p>
 
 <b>Install:</b>

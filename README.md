@@ -1,12 +1,6 @@
 # Point-creator
 <html>
   <head>
-    <style>
-      .img-container {
-        text-align: center;
-        display: block;
-      }
-    </style>
   </head>
   <body>
 <p>Plugin for QGIS designed to plot points on the layer.</p>
